@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/React-Trial-3/static/js/main.0640eaa6.js",
+    "static/media/slide_2.jpg": "/React-Trial-3/static/media/slide_2.c811e4c9fc58ad5a7d98.jpg",
+    "static/media/Men_d1.jpg": "/React-Trial-3/static/media/Men_d1.cc6486ee0ba60f0e1a1b.jpg",
+    "static/media/Men_2.jpg": "/React-Trial-3/static/media/Men_2.51069de36e55cc530663.jpg",
+    "static/media/Women_a1.jpg": "/React-Trial-3/static/media/Women_a1.de95deb964edafe0818e.jpg",
+    "static/media/Women_h1.jpg": "/React-Trial-3/static/media/Women_h1.ab7e1cf8216dc935ed2f.jpg",
+    "index.html": "/React-Trial-3/index.html",
+    "main.0640eaa6.js.map": "/React-Trial-3/static/js/main.0640eaa6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0640eaa6.js"
+  ]
+}
